@@ -1,6 +1,8 @@
 # LLVP_Visualization
 Mantle tomography visualization tool
 
+NOTE: requires m_map1.4m or later in same running folder or path accessible
+
 Votes represented as amount of models that agree a region is fast - models that agree a region is slow
 Default inputs show the African LLVP overhang, but any endpoints can be chosen
 Resolution is how many points along the path the interpolation will inspect, default is 1000, but values exist on a 1x1 degree lat lon spacing
